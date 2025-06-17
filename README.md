@@ -5,7 +5,6 @@ A simple TCP-based chat application that allows users to connect to chat rooms u
 ## Features
 
 - Automatic IP and port detection
-- Room-based chat system with 11-digit room codes
 - Graphical user interface for both server and client
 - Real-time message broadcasting
 - User join/leave notifications
